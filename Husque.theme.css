@@ -1,0 +1,16 @@
+@import url('https://raw.githubusercontent.com/StuartTHamilton/Husque-Discord-Theme/refs/heads/main/mainRewrite.css');
+
+:root {
+  --rgb-highlight: 172, 128, 255;
+  --rgb-background: 0, 0, 0;
+
+  --rgb-text: 255, 255, 255;
+  --rgb-close-button: 255, 255, 255;
+
+  --rgb-online-color: 114, 38, 255;
+  --rgb-afk-color: 255, 255, 51;
+  --rgb-dnd-color: 114, 38, 255;
+  --rgb-streaming-color: 127, 0, 0;
+
+  --transition-time: .1s;
+}
