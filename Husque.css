@@ -5,8 +5,8 @@
   --rgb-background: 0, 0, 0;
   --rgb-text: 255, 255, 255;
   --rgb-close-button: 255, 255, 255;
-  --rgb-online-color: 172, 128, 255;
-  --rgb-afk-color: 172, 128, 255;
-  --rgb-dnd-color: 172, 128, 255;
-  --rgb-streaming-color: 255, 255, 255;
+  --rgb-online-color: 57, 255, 20;
+  --rgb-afk-color: 255, 255, 51;
+  --rgb-dnd-color: 255, 0, 0;
+  --rgb-streaming-color: 188, 19, 254;
 }
